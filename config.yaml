@@ -1,0 +1,13 @@
+path: /Users/andrewverrilliadmin/Desktop/programs/yolo/code/data
+train: images/train
+val: images/train
+
+#classes
+
+names:
+  0: glasses
+  1: focused eyes
+  2: distracted eyes
+  3: talking mouth
+  4: closed mouth
+  5: ear
